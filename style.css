@@ -3,7 +3,7 @@ body{
 }
 
 .header{
-  height: 500px;
+  height: 30rem;
   width: 100%;
   background-color: antiquewhite;
   margin: 0px;
@@ -20,4 +20,15 @@ body{
 .header-description{
   text-align: center;
   padding-top: 30px;
+}
+
+.main{
+  height: 100rem;
+  background-color: aqua;
+}
+
+.box{
+  height: 100px;
+  width: 200px;
+  border: 1px solid black;
 }
